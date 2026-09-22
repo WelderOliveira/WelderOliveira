@@ -1,18 +1,18 @@
 Hi 👋 My name is Welder Oliveira
 ================================
 
-Web Developer
--------------
+Software Engineer
+-----------------
 
-Sou estudante de Ciências da Computação pela Universidade de Brasilia, estou codando a 3 anos. Comecei com HTML e CSS, porém desenvolvi uma paixão por desenvolvimento Back-end. Hoje utilizo de linguagens e Frameworks com Python e PHP principalmente. Não abandonei o Front, tenho um carinho enorme por realizar telas e confecciona-las. Atualmente trabalho como Full-Stack, com experiências principais em Bootstrap e Laravel. 
-* Estou estudando Inglês 
+Sou formado em Ciências da Computação pela Universidade de Brasília. Comecei com HTML e CSS, e ao longo do caminho desenvolvi uma paixão por desenvolvimento Back-end. Hoje utilizo principalmente linguagens e frameworks com Python e PHP. Não abandonei o Front: tenho um carinho enorme por criar e confeccionar telas. Atualmente atuo como Engenheiro de Software Full-Stack, com experiências principais em Bootstrap e Laravel.
+* Estou estudando Inglês
 
-*I'm student of Sciences of Computer at University of Brasília. I've been coding for 3 years. I started with HTML and CSS, but have really found a passion for backend development. Today use languages and Frameworks with Python and PHP. I've start studying conversation english.
+*I'm a Computer Science graduate from the University of Brasília. I started with HTML and CSS, and along the way found a real passion for backend development. Today I mainly work with languages and frameworks in Python and PHP. I haven't left the Front behind — I still love building and crafting interfaces. I currently work as a Full-Stack Software Engineer, with main experience in Bootstrap and Laravel. I'm also studying conversational English.
 
-* 🌍  I'm based in Brazil
-* ✉️  You can contact me at [weldercavalcante2011@gmail.com](mailto:weldercavalcante2011@gmail.com)
-* 🚀  I'm currently working on [99Frellas](http://https://www.99freelas.com.br/user/Welder-CO)
-* 🧠  I'm learning REACT
+* 🌍  I'm based in Brazil
+* ✉️  You can contact me at [weldercavalcante2011@gmail.com](mailto:weldercavalcante2011@gmail.com)
+* 🚀  I'm currently working on [99Freelas](https://www.99freelas.com.br/user/Welder-CO)
+* 🧠  I'm learning React
 
 ### Skills
 
@@ -39,7 +39,8 @@ Sou estudante de Ciências da Computação pela Universidade de Brasilia, estou 
 
 </p>
 <p align="center">
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
@@ -53,6 +54,6 @@ Sou estudante de Ciências da Computação pela Universidade de Brasilia, estou 
 <b>My GitHub Stats</b>
 
 <p>
-<a href="http://www.github.com/WelderOliveira"><img src="https://github-readme-stats.vercel.app/api?username=WelderOliveira&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="WelderOliveira's GitHub stats" /></a>
-<a href="http://www.github.com/WelderOliveira"><img src="https://github-readme-streak-stats.herokuapp.com/?user=WelderOliveira&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://www.github.com/WelderOliveira"><img src="https://github-readme-stats.vercel.app/api?username=WelderOliveira&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="WelderOliveira's GitHub stats" /></a>
+<a href="https://www.github.com/WelderOliveira"><img src="https://github-readme-streak-stats.herokuapp.com/?user=WelderOliveira&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
